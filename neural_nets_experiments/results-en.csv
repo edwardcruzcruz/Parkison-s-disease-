@@ -1,0 +1,316 @@
+Applied model,patient,metric,value
+State of the art,37,Dice,0.818091404215
+State of the art,37,HD,4.3588991015969984
+State of the art,37,AVD,20.2672795369
+State of the art,37,Lesion detection,0.72972972973
+State of the art,37,Lesion F1,0.54
+State of the art,8,Dice,0.493197278912
+State of the art,8,HD,31.302278094655872
+State of the art,8,AVD,183.061889251
+State of the art,8,Lesion detection,1.0
+State of the art,8,Lesion F1,0.5
+State of the art,47,Dice,0.837160200581
+State of the art,47,HD,65.52341515389378
+State of the art,47,AVD,13.4647887324
+State of the art,47,Lesion detection,0.942857142857
+State of the art,47,Lesion F1,0.564102564103
+State of the art,21,Dice,0.892106285017
+State of the art,21,HD,1.4142135623349472
+State of the art,21,AVD,3.32731784345
+State of the art,21,Lesion detection,0.909090909091
+State of the art,21,Lesion F1,0.869565217391
+State of the art,57,Dice,0.891872394998
+State of the art,57,HD,3.0
+State of the art,57,AVD,1.53460948227
+State of the art,57,Lesion detection,0.857142857143
+State of the art,57,Lesion F1,0.631578947368
+State of the art,58,Dice,0.868558193399
+State of the art,58,HD,1.5471740876482512
+State of the art,58,AVD,3.01724137931
+State of the art,58,Lesion detection,0.934210526316
+State of the art,58,Lesion F1,0.893081761006
+State of the art,28,Dice,0.735798016231
+State of the art,28,HD,12.433805577836656
+State of the art,28,AVD,4.23572744015
+State of the art,28,Lesion detection,0.909090909091
+State of the art,28,Lesion F1,0.727272727273
+State of the art,30,Dice,0.910743801653
+State of the art,30,HD,3.162277885885536
+State of the art,30,AVD,3.90394607499
+State of the art,30,Lesion detection,0.702702702703
+State of the art,30,Lesion F1,0.541666666667
+State of the art,5,Dice,0.804068951694
+State of the art,5,HD,3.5600041530625908
+State of the art,5,AVD,21.2171599601
+State of the art,5,Lesion detection,0.973913043478
+State of the art,5,Lesion F1,0.848484848485
+State of the art (FLAIR X T1),37,Dice,0.612313866301
+State of the art (FLAIR X T1),37,HD,11.532563157079707
+State of the art (FLAIR X T1),37,AVD,38.7980932925
+State of the art (FLAIR X T1),37,Lesion detection,0.189189189189
+State of the art (FLAIR X T1),37,Lesion F1,0.21875
+State of the art (FLAIR X T1),8,Dice,0.353790613718
+State of the art (FLAIR X T1),8,HD,16.648297264168733
+State of the art (FLAIR X T1),8,AVD,251.140065147
+State of the art (FLAIR X T1),8,Lesion detection,0.833333333333
+State of the art (FLAIR X T1),8,Lesion F1,0.434782608696
+State of the art (FLAIR X T1),47,Dice,0.781136008338
+State of the art (FLAIR X T1),47,HD,6.681395069238979
+State of the art (FLAIR X T1),47,AVD,16.2253521127
+State of the art (FLAIR X T1),47,Lesion detection,0.6
+State of the art (FLAIR X T1),47,Lesion F1,0.626865671642
+State of the art (FLAIR X T1),21,Dice,0.669082125604
+State of the art (FLAIR X T1),21,HD,9.433981131827766
+State of the art (FLAIR X T1),21,AVD,3.87999097677
+State of the art (FLAIR X T1),21,Lesion detection,0.25974025974
+State of the art (FLAIR X T1),21,Lesion F1,0.336134453782
+State of the art (FLAIR X T1),57,Dice,0.818773580994
+State of the art (FLAIR X T1),57,HD,15.04792344858389
+State of the art (FLAIR X T1),57,AVD,5.19344156369
+State of the art (FLAIR X T1),57,Lesion detection,0.387755102041
+State of the art (FLAIR X T1),57,Lesion F1,0.493506493506
+State of the art (FLAIR X T1),58,Dice,0.654013444049
+State of the art (FLAIR X T1),58,HD,8.383949647417912
+State of the art (FLAIR X T1),58,AVD,1.80250783699
+State of the art (FLAIR X T1),58,Lesion detection,0.493421052632
+State of the art (FLAIR X T1),58,Lesion F1,0.632911392405
+State of the art (FLAIR X T1),28,Dice,0.352993348115
+State of the art (FLAIR X T1),28,HD,17.73693037059006
+State of the art (FLAIR X T1),28,AVD,215.285451197
+State of the art (FLAIR X T1),28,Lesion detection,0.5
+State of the art (FLAIR X T1),28,Lesion F1,0.366666666667
+State of the art (FLAIR X T1),30,Dice,0.720449622387
+State of the art (FLAIR X T1),30,HD,9.764434205241118
+State of the art (FLAIR X T1),30,AVD,39.867996068
+State of the art (FLAIR X T1),30,Lesion detection,0.459459459459
+State of the art (FLAIR X T1),30,Lesion F1,0.478873239437
+State of the art (FLAIR X T1),5,Dice,0.738610791619
+State of the art (FLAIR X T1),5,HD,4.5759430521234545
+State of the art (FLAIR X T1),5,AVD,21.6716550272
+State of the art (FLAIR X T1),5,Lesion detection,0.791304347826
+State of the art (FLAIR X T1),5,Lesion F1,0.777777777778
+State of the art (FLAIR only),37,Dice,0.783118755282
+State of the art (FLAIR only),37,HD,5.099019652401148
+State of the art (FLAIR only),37,AVD,28.7623425264
+State of the art (FLAIR only),37,Lesion detection,0.72972972973
+State of the art (FLAIR only),37,Lesion F1,0.5625
+State of the art (FLAIR only),8,Dice,0.671814671815
+State of the art (FLAIR only),8,HD,6.61123802466806
+State of the art (FLAIR only),8,AVD,53.0944625407
+State of the art (FLAIR only),8,Lesion detection,0.888888888889
+State of the art (FLAIR only),8,Lesion F1,0.820512820513
+State of the art (FLAIR only),47,Dice,0.926788685524
+State of the art (FLAIR only),47,HD,1.1553200364112752
+State of the art (FLAIR only),47,AVD,3.15492957746
+State of the art (FLAIR only),47,Lesion detection,0.971428571429
+State of the art (FLAIR only),47,Lesion F1,0.883116883117
+State of the art (FLAIR only),21,Dice,0.90099814299
+State of the art (FLAIR only),21,HD,1.4142135624112544
+State of the art (FLAIR only),21,AVD,5.63952176855
+State of the art (FLAIR only),21,Lesion detection,0.883116883117
+State of the art (FLAIR only),21,Lesion F1,0.804733727811
+State of the art (FLAIR only),57,Dice,0.918206640022
+State of the art (FLAIR only),57,HD,1.2000000476837158
+State of the art (FLAIR only),57,AVD,4.11113803408
+State of the art (FLAIR only),57,Lesion detection,0.938775510204
+State of the art (FLAIR only),57,Lesion F1,0.821428571429
+State of the art (FLAIR only),58,Dice,0.883624741493
+State of the art (FLAIR only),58,HD,1.2000000476837158
+State of the art (FLAIR only),58,AVD,8.42476489028
+State of the art (FLAIR only),58,Lesion detection,0.947368421053
+State of the art (FLAIR only),58,Lesion F1,0.926045016077
+State of the art (FLAIR only),28,Dice,0.798173515982
+State of the art (FLAIR only),28,HD,3.428240993630798
+State of the art (FLAIR only),28,AVD,1.65745856354
+State of the art (FLAIR only),28,Lesion detection,0.863636363636
+State of the art (FLAIR only),28,Lesion F1,0.808510638298
+State of the art (FLAIR only),30,Dice,0.913757845004
+State of the art (FLAIR only),30,HD,3.0000002384185795
+State of the art (FLAIR only),30,AVD,0.856621261059
+State of the art (FLAIR only),30,Lesion detection,0.783783783784
+State of the art (FLAIR only),30,Lesion F1,0.637362637363
+State of the art (FLAIR only),5,Dice,0.834076814275
+State of the art (FLAIR only),5,HD,3.000003099441537
+State of the art (FLAIR only),5,AVD,3.76898348298
+State of the art (FLAIR only),5,Lesion detection,0.886956521739
+State of the art (FLAIR only),5,Lesion F1,0.85
+U-net #2,37,Dice,0.824272250337
+U-net #2,37,HD,5.0990195135424194
+U-net #2,37,AVD,16.6581545795
+U-net #237,Lesion detection,0.72972972973
+U-net #2,37,Lesion F1,0.675
+U-net #2,8,Dice,0.618994413408
+U-net #2,8,HD,7.6097931064053865
+U-net #2,8,AVD,91.5309446254
+U-net #28,Lesion detection,0.944444444444
+U-net #2,8,Lesion F1,0.790697674419
+U-net #2,47,Dice,0.932692307692
+U-net #2,47,HD,0.9765999913215637
+U-net #2,47,AVD,0.788732394366
+U-net #247,Lesion detection,0.857142857143
+U-net #2,47,Lesion F1,0.89552238806
+U-net #2,21,Dice,0.890901973942
+U-net #2,21,HD,2.0000000000000058
+U-net #2,21,AVD,1.7031355741
+U-net #221,Lesion detection,0.857142857143
+U-net #2,21,Lesion F1,0.910344827586
+U-net #2,57,Dice,0.927039317478
+U-net #2,57,HD,1.2000000476837158
+U-net #2,57,AVD,0.70268960504
+U-net #257,Lesion detection,0.714285714286
+U-net #2,57,Lesion F1,0.752688172043
+U-net #2,58,Dice,0.900624874017
+U-net #2,58,HD,1.2000000476837158
+U-net #2,58,AVD,5.60344827586
+U-net #258,Lesion detection,0.868421052632
+U-net #2,58,Lesion F1,0.904109589041
+U-net #2,28,Dice,0.752577319588
+U-net #2,28,HD,4.123104528673714
+U-net #2,28,AVD,14.364640884
+U-net #228,Lesion detection,0.818181818182
+U-net #2,28,Lesion F1,0.705882352941
+U-net #2,30,Dice,0.916724496877
+U-net #2,30,HD,3.000000238418579
+U-net #2,30,AVD,2.35921921079
+U-net #230,Lesion detection,0.756756756757
+U-net #2,30,Lesion F1,0.666666666667
+U-net #2,5,Dice,0.838716646862
+U-net #2,5,HD,2.142898432275536
+U-net #2,5,AVD,5.23223589403
+U-net #25,Lesion detection,0.895652173913
+U-net #2,5,Lesion F1,0.876595744681
+U-net #2 (FLAIR only),37,Dice,0.802024584237
+U-net #2 (FLAIR only),37,HD,4.358899104304095
+U-net #2 (FLAIR only),37,AVD,23.4167517875
+U-net #2 (FLAIR only)37,Lesion detection,0.72972972973
+U-net #2 (FLAIR only),37,Lesion F1,0.642857142857
+U-net #2 (FLAIR only),8,Dice,0.572927597062
+U-net #2 (FLAIR only),8,HD,13.102016698264805
+U-net #2 (FLAIR only),8,AVD,110.423452769
+U-net #2 (FLAIR only)8,Lesion detection,0.944444444444
+U-net #2 (FLAIR only),8,Lesion F1,0.809523809524
+U-net #2 (FLAIR only),47,Dice,0.92518146287
+U-net #2 (FLAIR only),47,HD,0.9765999913215637
+U-net #2 (FLAIR only),47,AVD,1.80281690141
+U-net #2 (FLAIR only)47,Lesion detection,0.857142857143
+U-net #2 (FLAIR only),47,Lesion F1,0.923076923077
+U-net #2 (FLAIR only),21,Dice,0.894048215578
+U-net #2 (FLAIR only),21,HD,1.8535533906028
+U-net #2 (FLAIR only),21,AVD,2.58290097
+U-net #2 (FLAIR only)21,Lesion detection,0.831168831169
+U-net #2 (FLAIR only),21,Lesion F1,0.876712328767
+U-net #2 (FLAIR only),57,Dice,0.925014807502
+U-net #2 (FLAIR only),57,HD,1.2000000476837158
+U-net #2 (FLAIR only),57,AVD,4.54729020273
+U-net #2 (FLAIR only)57,Lesion detection,0.734693877551
+U-net #2 (FLAIR only),57,Lesion F1,0.791208791209
+U-net #2 (FLAIR only),58,Dice,0.886455331412
+U-net #2 (FLAIR only),58,HD,1.4950979816535392
+U-net #2 (FLAIR only),58,AVD,3.95768025078
+U-net #2 (FLAIR only)58,Lesion detection,0.861842105263
+U-net #2 (FLAIR only),58,Lesion F1,0.909722222222
+U-net #2 (FLAIR only),28,Dice,0.744604316547
+U-net #2 (FLAIR only),28,HD,5.127633060712248
+U-net #2 (FLAIR only),28,AVD,4.78821362799
+U-net #2 (FLAIR only)28,Lesion detection,0.727272727273
+U-net #2 (FLAIR only),28,Lesion F1,0.711111111111
+U-net #2 (FLAIR only),30,Dice,0.910425240055
+U-net #2 (FLAIR only),30,HD,3.0000002384185795
+U-net #2 (FLAIR only),30,AVD,4.74652436456
+U-net #2 (FLAIR only)30,Lesion detection,0.783783783784
+U-net #2 (FLAIR only),30,Lesion F1,0.716049382716
+U-net #2 (FLAIR only),5,Dice,0.821804037006
+U-net #2 (FLAIR only),5,HD,3.0000030994415283
+U-net #2 (FLAIR only),5,AVD,10.8857111185
+U-net #2 (FLAIR only)5,Lesion detection,0.886956521739
+U-net #2 (FLAIR only),5,Lesion F1,0.910714285714
+U-net #3,37,Dice,0.820243673852
+U-net #3,37,HD,4.472135954907686
+U-net #3,37,AVD,18.3520599251
+U-net #337,Lesion detection,0.72972972973
+U-net #3,37,Lesion F1,0.58064516129
+U-net #3,8,Dice,0.656324582339
+U-net #3,8,HD,6.3601787486511645
+U-net #3,8,AVD,72.9641693811
+U-net #38,Lesion detection,1.0
+U-net #3,8,Lesion F1,0.837209302326
+U-net #3,47,Dice,0.857425742574
+U-net #3,47,HD,5.076907641681636
+U-net #3,47,AVD,27.6056338028
+U-net #347,Lesion detection,0.971428571429
+U-net #3,47,Lesion F1,0.673267326733
+U-net #3,21,Dice,0.898349358084
+U-net #3,21,HD,1.4142135624112564
+U-net #3,21,AVD,2.94383036319
+U-net #321,Lesion detection,0.909090909091
+U-net #3,21,Lesion F1,0.838323353293
+U-net #3,57,Dice,0.907297679575
+U-net #3,57,HD,2.2923765586478226
+U-net #3,57,AVD,11.2834181407
+U-net #357,Lesion detection,0.918367346939
+U-net #3,57,Lesion F1,0.708661417323
+U-net #3,58,Dice,0.85082286321
+U-net #3,58,HD,1.5471740876482512
+U-net #3,58,AVD,21.434169279
+U-net #358,Lesion detection,0.927631578947
+U-net #3,58,Lesion F1,0.909677419355
+U-net #3,28,Dice,0.759785111282
+U-net #3,28,HD,9.695356624788314
+U-net #3,28,AVD,39.9631675875
+U-net #328,Lesion detection,0.863636363636
+U-net #3,28,Lesion F1,0.633333333333
+U-net #3,30,Dice,0.898206822165
+U-net #3,30,HD,4.999999981813303
+U-net #3,30,AVD,8.31343912372
+U-net #330,Lesion detection,0.837837837838
+U-net #3,30,Lesion F1,0.508196721311
+U-net #3,5,Dice,0.826495964375
+U-net #3,5,HD,3.0000030994415394
+U-net #3,5,AVD,0.853563906441
+U-net #35,Lesion detection,0.904347826087
+U-net #3,5,Lesion F1,0.803088803089
+U-net #3 (FLAIR only),37,Dice,0.777964426877
+U-net #3 (FLAIR only),37,HD,6.324555770894589
+U-net #3 (FLAIR only),37,AVD,27.7153558052
+U-net #3 (FLAIR only),37,Lesion detection,0.594594594595
+U-net #3 (FLAIR only),37,Lesion F1,0.594594594595
+U-net #3 (FLAIR only),8,Dice,0.669126691267
+U-net #3 (FLAIR only),8,HD,10.31705318566901
+U-net #3 (FLAIR only),8,AVD,64.8208469055
+U-net #3 (FLAIR only),8,Lesion detection,0.944444444444
+U-net #3 (FLAIR only),8,Lesion F1,0.871794871795
+U-net #3 (FLAIR only),47,Dice,0.922535211268
+U-net #3 (FLAIR only),47,HD,1.2000000476837158
+U-net #3 (FLAIR only),47,AVD,8.0
+U-net #3 (FLAIR only),47,Lesion detection,0.8
+U-net #3 (FLAIR only),47,Lesion F1,0.848484848485
+U-net #3 (FLAIR only),21,Dice,0.894244267665
+U-net #3 (FLAIR only),21,HD,3.1622776602195772
+U-net #3 (FLAIR only),21,AVD,7.1734716896
+U-net #3 (FLAIR only),21,Lesion detection,0.714285714286
+U-net #3 (FLAIR only),21,Lesion F1,0.763888888889
+U-net #3 (FLAIR only),57,Dice,0.922138411442
+U-net #3 (FLAIR only),57,HD,1.5471740876482512
+U-net #3 (FLAIR only),57,AVD,4.04652289799
+U-net #3 (FLAIR only),57,Lesion detection,0.755102040816
+U-net #3 (FLAIR only),57,Lesion F1,0.755102040816
+U-net #3 (FLAIR only),58,Dice,0.88677292486
+U-net #3 (FLAIR only),58,HD,1.9531999826431274
+U-net #3 (FLAIR only),58,AVD,10.697492163
+U-net #3 (FLAIR only),58,Lesion detection,0.842105263158
+U-net #3 (FLAIR only),58,Lesion F1,0.864864864865
+U-net #3 (FLAIR only),28,Dice,0.767045454545
+U-net #3 (FLAIR only),28,HD,5.127633071372315
+U-net #3 (FLAIR only),28,AVD,5.52486187845
+U-net #3 (FLAIR only),28,Lesion detection,0.681818181818
+U-net #3 (FLAIR only),28,Lesion F1,0.731707317073
+U-net #3 (FLAIR only),30,Dice,0.916421551044
+U-net #3 (FLAIR only),30,HD,3.00000023841858
+U-net #3 (FLAIR only),30,AVD,4.25502036231
+U-net #3 (FLAIR only),30,Lesion detection,0.675675675676
+U-net #3 (FLAIR only),30,Lesion F1,0.649350649351
+U-net #3 (FLAIR only),5,Dice,0.820606060606
+U-net #3 (FLAIR only),5,HD,6.000006198883057
+U-net #3 (FLAIR only),5,AVD,1.19720651812
+U-net #3 (FLAIR only),5,Lesion detection,0.808695652174
+U-net #3 (FLAIR only),5,Lesion F1,0.837837837838
