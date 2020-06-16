@@ -13,7 +13,7 @@ from keras.layers.merge import concatenate
 from keras.optimizers import Adam
 from keras.callbacks import ModelCheckpoint
 from keras import backend as K
-from keras.preprocessing.image import apply_transform, transform_matrix_offset_center
+#from keras.preprocessing.image import apply_transform, transform_matrix_offset_center
 K.set_image_data_format('channels_last')
 
 rows_standard = 200
