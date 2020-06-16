@@ -1,0 +1,136 @@
+Applied model,patient,metric,value
+Normal Preprocessing,37,Dice,0.824272250337
+Normal Preprocessing,37,HD,5.0990195135424194
+Normal Preprocessing,37,AVD,16.6581545795
+Normal Preprocessing,37,Lesion detection,0.72972972973
+Normal Preprocessing,37,Lesion F1,0.675
+Normal Preprocessing,8,Dice,0.618994413408
+Normal Preprocessing,8,HD,7.6097931064053865
+Normal Preprocessing,8,AVD,91.5309446254
+Normal Preprocessing,8,Lesion detection,0.944444444444
+Normal Preprocessing,8,Lesion F1,0.790697674419
+Normal Preprocessing,47,Dice,0.932692307692
+Normal Preprocessing,47,HD,0.9765999913215637
+Normal Preprocessing,47,AVD,0.788732394366
+Normal Preprocessing,47,Lesion detection,0.857142857143
+Normal Preprocessing,47,Lesion F1,0.89552238806
+Normal Preprocessing,21,Dice,0.890901973942
+Normal Preprocessing,21,HD,2.0000000000000058
+Normal Preprocessing,21,AVD,1.7031355741
+Normal Preprocessing,21,Lesion detection,0.857142857143
+Normal Preprocessing,21,Lesion F1,0.910344827586
+Normal Preprocessing,57,Dice,0.927039317478
+Normal Preprocessing,57,HD,1.2000000476837158
+Normal Preprocessing,57,AVD,0.70268960504
+Normal Preprocessing,57,Lesion detection,0.714285714286
+Normal Preprocessing,57,Lesion F1,0.752688172043
+Normal Preprocessing,58,Dice,0.900624874017
+Normal Preprocessing,58,HD,1.2000000476837158
+Normal Preprocessing,58,AVD,5.60344827586
+Normal Preprocessing,58,Lesion detection,0.868421052632
+Normal Preprocessing,58,Lesion F1,0.904109589041
+Normal Preprocessing,28,Dice,0.752577319588
+Normal Preprocessing,28,HD,4.123104528673714
+Normal Preprocessing,28,AVD,14.364640884
+Normal Preprocessing,28,Lesion detection,0.818181818182
+Normal Preprocessing,28,Lesion F1,0.705882352941
+Normal Preprocessing,30,Dice,0.916724496877
+Normal Preprocessing,30,HD,3.000000238418579
+Normal Preprocessing,30,AVD,2.35921921079
+Normal Preprocessing,30,Lesion detection,0.756756756757
+Normal Preprocessing,30,Lesion F1,0.666666666667
+Normal Preprocessing,5,Dice,0.838716646862
+Normal Preprocessing,5,HD,2.142898432275536
+Normal Preprocessing,5,AVD,5.23223589403
+Normal Preprocessing,5,Lesion detection,0.895652173913
+Normal Preprocessing,5,Lesion F1,0.876595744681
+Normal Preprocessing,37,Dice,0.824272250337
+Normal Preprocessing,37,HD,5.0990195135424194
+Normal Preprocessing,37,AVD,16.6581545795
+Normal Preprocessing,37,Lesion detection,0.72972972973
+Normal Preprocessing,37,Lesion F1,0.675
+Normal Preprocessing,8,Dice,0.618994413408
+Normal Preprocessing,8,HD,7.6097931064053865
+Normal Preprocessing,8,AVD,91.5309446254
+Normal Preprocessing,8,Lesion detection,0.944444444444
+Normal Preprocessing,8,Lesion F1,0.790697674419
+Normal Preprocessing,47,Dice,0.932692307692
+Normal Preprocessing,47,HD,0.9765999913215637
+Normal Preprocessing,47,AVD,0.788732394366
+Normal Preprocessing,47,Lesion detection,0.857142857143
+Normal Preprocessing,47,Lesion F1,0.89552238806
+Normal Preprocessing,21,Dice,0.890901973942
+Normal Preprocessing,21,HD,2.0000000000000058
+Normal Preprocessing,21,AVD,1.7031355741
+Normal Preprocessing,21,Lesion detection,0.857142857143
+Normal Preprocessing,21,Lesion F1,0.910344827586
+Normal Preprocessing,57,Dice,0.927039317478
+Normal Preprocessing,57,HD,1.2000000476837158
+Normal Preprocessing,57,AVD,0.70268960504
+Normal Preprocessing,57,Lesion detection,0.714285714286
+Normal Preprocessing,57,Lesion F1,0.752688172043
+Normal Preprocessing,58,Dice,0.900624874017
+Normal Preprocessing,58,HD,1.2000000476837158
+Normal Preprocessing,58,AVD,5.60344827586
+Normal Preprocessing,58,Lesion detection,0.868421052632
+Normal Preprocessing,58,Lesion F1,0.904109589041
+Normal Preprocessing,28,Dice,0.752577319588
+Normal Preprocessing,28,HD,4.123104528673714
+Normal Preprocessing,28,AVD,14.364640884
+Normal Preprocessing,28,Lesion detection,0.818181818182
+Normal Preprocessing,28,Lesion F1,0.705882352941
+Normal Preprocessing,30,Dice,0.916724496877
+Normal Preprocessing,30,HD,3.000000238418579
+Normal Preprocessing,30,AVD,2.35921921079
+Normal Preprocessing,30,Lesion detection,0.756756756757
+Normal Preprocessing,30,Lesion F1,0.666666666667
+Normal Preprocessing,5,Dice,0.838716646862
+Normal Preprocessing,5,HD,2.142898432275536
+Normal Preprocessing,5,AVD,5.23223589403
+Normal Preprocessing,5,Lesion detection,0.895652173913
+Normal Preprocessing,5,Lesion F1,0.876595744681
+My Preprocessing,37,Dice,0.824272250337
+My Preprocessing,37,HD,5.0990195135424194
+My Preprocessing,37,AVD,16.6581545795
+My Preprocessing,37,Lesion detection,0.72972972973
+My Preprocessing,37,Lesion F1,0.675
+My Preprocessing,8,Dice,0.618994413408
+My Preprocessing,8,HD,7.6097931064053865
+My Preprocessing,8,AVD,91.5309446254
+My Preprocessing,8,Lesion detection,0.944444444444
+My Preprocessing,8,Lesion F1,0.790697674419
+My Preprocessing,47,Dice,0.925769122213
+My Preprocessing,47,HD,0.9765999913215637
+My Preprocessing,47,AVD,0.394366197183
+My Preprocessing,47,Lesion detection,0.857142857143
+My Preprocessing,47,Lesion F1,0.869565217391
+My Preprocessing,21,Dice,0.890901973942
+My Preprocessing,21,HD,2.0000000000000058
+My Preprocessing,21,AVD,1.7031355741
+My Preprocessing,21,Lesion detection,0.857142857143
+My Preprocessing,21,Lesion F1,0.910344827586
+My Preprocessing,57,Dice,0.919443204415
+My Preprocessing,57,HD,1.9531999826431274
+My Preprocessing,57,AVD,0.977303933446
+My Preprocessing,57,Lesion detection,0.714285714286
+My Preprocessing,57,Lesion F1,0.721649484536
+My Preprocessing,58,Dice,0.888888888889
+My Preprocessing,58,HD,1.2000000476837158
+My Preprocessing,58,AVD,6.38714733542
+My Preprocessing,58,Lesion detection,0.868421052632
+My Preprocessing,58,Lesion F1,0.885906040268
+My Preprocessing,28,Dice,0.752577319588
+My Preprocessing,28,HD,4.123104528673714
+My Preprocessing,28,AVD,14.364640884
+My Preprocessing,28,Lesion detection,0.818181818182
+My Preprocessing,28,Lesion F1,0.705882352941
+My Preprocessing,30,Dice,0.916724496877
+My Preprocessing,30,HD,3.000000238418579
+My Preprocessing,30,AVD,2.35921921079
+My Preprocessing,30,Lesion detection,0.756756756757
+My Preprocessing,30,Lesion F1,0.666666666667
+My Preprocessing,5,Dice,0.838716646862
+My Preprocessing,5,HD,2.142898432275536
+My Preprocessing,5,AVD,5.23223589403
+My Preprocessing,5,Lesion detection,0.895652173913
+My Preprocessing,5,Lesion F1,0.876595744681
