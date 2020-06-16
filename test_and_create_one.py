@@ -350,7 +350,7 @@ if __name__ == "__main__":
     FLAIR_image = sys.argv[1] #absolute path of the flair image.
     T1_image = sys.argv[2] #absolute path of the t1 image.
     
-    model_path = 'the_model.h5'
+    model_path = './models/multData/_complete__multData.h5'#'the_model.h5'
 
     generateMaskTwoArgument(FLAIR_image, T1_image, model_path, './output/example.nii.gz' )
 
