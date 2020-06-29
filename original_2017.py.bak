@@ -137,27 +137,27 @@ def augmentation(x_0, x_1, y):
 def train_leave_one_out(images, masks, patient=0, flair=True, t1=True, full=True, first5=True, aug=True, verbose=False):
     if full:
         if patient < 40:
-            images = np.delete(images, list(range(patient*38, (patient+1)*38)), axis=0)
-            masks = np.delete(masks, list(range(patient*38, (patient+1)*38)), axis=0)
+            images = np.delete(images, range(patient*38, (patient+1)*38), axis=0)
+            masks = np.delete(masks, range(patient*38, (patient+1)*38), axis=0)
         else:
-            images = np.delete(images, list(range(1520+(patient-40)*63, 1520+(patient-39)*63)), axis=0)
-            masks = np.delete(masks, list(range(1520+(patient-40)*63, 1520+(patient-39)*63)), axis=0)
+            images = np.delete(images, range(1520+(patient-40)*63, 1520+(patient-39)*63), axis=0)
+            masks = np.delete(masks, range(1520+(patient-40)*63, 1520+(patient-39)*63), axis=0)
     else:
         if patient < 20:
             images = images[:760, ...]
             masks = masks[:760, ...]
-            images = np.delete(images, list(range(patient*38, (patient+1)*38)), axis=0)
-            masks = np.delete(masks, list(range(patient*38, (patient+1)*38)), axis=0)
+            images = np.delete(images, range(patient*38, (patient+1)*38), axis=0)
+            masks = np.delete(masks, range(patient*38, (patient+1)*38), axis=0)
         elif patient < 40:
             images = images[760:1520, ...]
             masks = masks[760:1520, ...]
-            images = np.delete(images, list(range((patient-20)*38, (patient-19)*38)), axis=0)
-            masks = np.delete(masks, list(range((patient-20)*38, (patient-19)*38)), axis=0)
+            images = np.delete(images, range((patient-20)*38, (patient-19)*38), axis=0)
+            masks = np.delete(masks, range((patient-20)*38, (patient-19)*38), axis=0)
         else:
             images = images[1520:, ...]
             masks = masks[1520:, ...]
-            images = np.delete(images, list(range((patient-40)*63, (patient-39)*63)), axis=0)
-            masks = np.delete(masks, list(range((patient-40)*63, (patient-39)*63)), axis=0)
+            images = np.delete(images, range((patient-40)*63, (patient-39)*63), axis=0)
+            masks = np.delete(masks, range((patient-40)*63, (patient-39)*63), axis=0)
     if aug:
         images = np.concatenate((images, images[..., ::-1, :]), axis=0)
         masks = np.concatenate((masks, masks[..., ::-1, :]), axis=0)
@@ -174,7 +174,7 @@ def train_leave_one_out(images, masks, patient=0, flair=True, t1=True, full=True
     #model = res_net(img_shape, first5)
     current_epoch = 1
     while current_epoch <= epoch:
-        print(('Epoch ', str(current_epoch), '/', str(epoch)))
+        print('Epoch ', str(current_epoch), '/', str(epoch))
         if aug:
             images_aug = np.zeros(images.shape, dtype=np.float32)
             masks_aug = np.zeros(masks.shape, dtype=np.float32)
@@ -210,15 +210,15 @@ def train_leave_one_out(images, masks, patient=0, flair=True, t1=True, full=True
         os.mkdir(model_path)
     model_path += str(patient) + '.h5'
     model.save_weights(model_path)
-    print(('Model saved to ', model_path))
+    print('Model saved to ', model_path)
 
 #leave-one-out evaluation
 def main():
     warnings.filterwarnings("ignore")
     images = np.load('../images_three_datasets_sorted.npy')
-    print((images.shape))
+    print(images.shape)
     masks = np.load('../masks_three_datasets_sorted.npy')
-    print((masks.shape))
+    print(masks.shape)
     patient_num  = 60
     for patient in range(0, patient_num):
         train_leave_one_out(images, masks, patient=patient, full=True, verbose=True)
