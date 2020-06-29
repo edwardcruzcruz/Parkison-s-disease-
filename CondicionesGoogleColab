@@ -1,0 +1,25 @@
+! python -c 'import tensorflow as tf; print(tf.__version__)'
+! python -c 'import keras; print(keras.__version__)'
+! python test_and_create_one.py ./input/pre/FLAIR.nii.gz ./input/pre/T1.nii.gz
+
+
+!pip install --upgrade numpy==1.11.0
+! python test_and_create_one.py ./test/FLAIR.nii ./test/T1.nii
+
+Data set original del proyecto
+https://drive.google.com/drive/folders/1m0H9vbFV8yijvuTsAqRAUQGGitanNw_k
+
+(83, 256, 132)----->(z,y,x)---->(num_selected_slice(vertical),image_rows_Dataset(horizontal pero de el cerebelo hacia la nariz),image_cols_Dataset(horizontal desde una oreja a otra))
+
+
+Desde aquí abajo comienza todo
+<!--esto sirve----------------------------------------------------------------->
+https://stackoverflow.com/questions/61475248/how-can-i-use-python-2-on-google-colab(enlace de la version antigua de google colab donde se puede cambiar la version de python y ahi si funciona )
+! git clone https://github.com/edwardcruzcruz/Parkison-s-disease-
+! pip install SimpleITK
+! pip install numpy==1.11.0
+! pip install tensorflow==1.8
+! pip install keras==2.0.5
+
+evaluacion del modelo
+! python test_and_create_one.py ./input/orig/FLAIR.nii.gz ./input/orig/T1.nii.gz
