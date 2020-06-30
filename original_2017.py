@@ -215,9 +215,9 @@ def train_leave_one_out(images, masks, patient=0, flair=True, t1=True, full=True
 #leave-one-out evaluation
 def main():
     warnings.filterwarnings("ignore")
-    images = np.load('../images_three_datasets_sorted.npy')
+    images = np.load('../../images_three_datasets_sorted.npy')
     print((images.shape))
-    masks = np.load('../masks_three_datasets_sorted.npy')
+    masks = np.load('../../masks_three_datasets_sorted.npy')
     print((masks.shape))
     patient_num  = 60
     for patient in range(0, patient_num):
